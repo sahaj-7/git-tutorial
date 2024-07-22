@@ -6,3 +6,4 @@ function sayName() {
   console.log("My Name is " + name);
 }
 
+console.log("version 12");
